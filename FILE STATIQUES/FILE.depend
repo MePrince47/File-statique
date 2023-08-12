@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680538822 source:c:\users\hitech tuning\desktop\arbre binaire\revision\file\main.c
+	<stdio.h>
+	<stdlib.h>
+
